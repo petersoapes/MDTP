@@ -1,4 +1,5 @@
 # This repo contains all of Sarah Stevens files related to MDTP requirements
+# April forked this repo to use as a template for writing pretty md CM reports in the hopes of learning more md and motivating her to write her CM report.
 
 Many of the files created prior to 06-14-2015 might be in non-text formats.
 As it is unlikely I will change these files, I'm leaving them as such.
