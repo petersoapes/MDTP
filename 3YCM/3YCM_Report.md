@@ -3,31 +3,16 @@ April Peterson, Payseur Lab
 Meeting: April 28th, 2017 in BioTech 1234
 
 ### Research Progress
+   Over the last year I have been estimating/quantifying recombination rates in (biological samples) by quantifying MLH1 foci in spermatocytes and oocytes.  This work (will be presented/reported/published) in/manuscript for my first chapter which will treat variation in heterochiasmy estimates across house mouse within a polymorphism and divergence framework.
+(by (after) surveying/quantifying recombination rates across the a panel of (commercially) available wild derived inbred strains – the variation in sex-specific recombination rate estimates can be treated as variation from within a interbreeding population (within one of the three subspecies) or as variation across divergent / distinct populations (eg. Across subspecies ).
+--(models/predictions for interpreting these levels of variation
+This (applying this framework) will allow us to make hypotheses for how (modes of selection)/evolutionary forces may be acting differently on recombination rates in oogenesis and spermatogenesis. (causing SD/heterochiasmy)
 
-(specific new findings)
--MSM, LEWES
--CO : SC ratio (Gough looks different than the others)
+Already – preliminary results across (quantified) strains is revealing interesting patterns.
+<for example> results suggest that mice (with genetic background from the Mmmusculus )  have elevated recombination rates (especially in males) whereas females (do not –vary (as much across the 3 main subspecies).
+<impact…> (more variation //novel variation)
 
-I have been quantifying sex specific recombination rates in house mice strains.  
-(since prelimB) Over the past year...
-shifted focus on phylogenic comparative methods to (discriptive method of variation of recombination rates).
-utilize 
 
- 1. I have heterochiasmy measures of 5 strains....
-new strains, MSM (molossinus), very high and male direction of heterochiasmy.
-LEWES - 
-
- 1. I have arranged to get more mouse strains samples -- increase the number of evolutionary levels
-BRC RIKEN Japan -- 3 wild derived Mmmusculus strains. Two of the 3 main house mouse subspecies, do not have diversity in geographic sampling of wild derived inbred strains.
-2-cell cryopreserved zygotes. Delivery in June. 
-This is very exciting // we are very excitied to work with these mice -- since this is a (novel) source of genetic diversity to explore
-
-2. I have mad significant progress on my macro -- ImageJ based macro
-clarified the type of software -- shifting from fully automation to processing more user input -- this has made the program much more flexible and produces measurements very close to human made measurements.
-
-3. progress lead me to apply for a NSF DDIG --- was not funded but -- it was a useful experience to outline logical and testable hypothesis for my data (will be applied to better understand the variation in recombination rates)
-
-4. started to analyze the results from macro, (traits beyond CO number)
 
 
 
