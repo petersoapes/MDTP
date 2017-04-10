@@ -12,41 +12,18 @@ Already – preliminary results across (quantified) strains is revealing interes
 <for example> results suggest that mice (with genetic background from the Mmmusculus )  have elevated recombination rates (especially in males) whereas females (do not –vary (as much across the 3 main subspecies).
 <impact…> (more variation //novel variation)
 
+Part 2
 
-
-
-
-Heterochiasmy values are not known for many species. preliminary results suggest rapid evolution (and variation in direction and magnetidue). (to better understand why Hetreochiasmy evolve (the evolutionary forces acting causing heterochiasmy)
-I have been quantiying meiorit recombiation rate estimates using immunoflorescance, to estimate sex-specific recombiantion rates from samples of house mouse populations (across varying evolutionary levels.) 
-I have been quantifying meiotic recombination rate in single gametocyte cells from divergent strains of House Mouse. 
-I have sucured 5 new inbred wild strains of mice, domesticus, cast, spicilegus.
-the Final sampling panel will include X, X, X.
-
-
-this range within several subspecies, across the house mouse species complex and two outgroup rodent species -- (will provide the most extensive survey of sex specific 
-
-Last year gave talk
-presented poster at GSA, won a poster award (third place graduate student).
-
-applied for DDIG + trait correlations with CO number variation
- 
 
 #### New Questions
-*What are correlations of CO number variation? (SC length, ect)?*
--tesable hypothesis for correlation of meiotic traits  // correlation of meiotic traits with CO number variation
-        -SC
-        -also meiotic 'mistakes'
-
+*Can (a/the biomechanical ) tension model for CO patterning be applied to --- make hypotheses (for the evolution of RR (and heterochiasmy in house mouse(mus musculus)?*
 *Can the Beam Film model of CO designation be applied to --questions concerning the evolutionary variation of recombination rates?*
 -this is a new biolmechanical model to explain CO patterning (on a bivlent specific scale), It has not previously been applied to datasets // evolutionary based questions.
 --the problem with beam film model is the number of parameters --- this presents a challenge that will require me to (explore the parametr space  ---  convergent states --  require testing the model to understand the (best estimate) of underlying changes in 
 which have caused variation in evolutionary.
 
--variation in degree of sexual dimorphism
-
-5. my goal for the summer is to outline manuscripts of my three chapters.
--get better at automating analyses and reports
--present a talk at evolution (on CO patterning variation)
+*Selection causing M.m.musculus male pattern?*
+*Can automated approaches be applied to generate bivalent level measures of CO patterning?*
 
 \newpage
 
